@@ -13,6 +13,15 @@ This is curated repository of resources on bias and machine unlearning in Large 
 ![avatar](assets/images/DALL·E-2025-01-01-19.02.jpg "Created by DALLE")
 
 # Table of Contents
+- [Paper List :page_with_curl:](#awesome-trustworthy--deep-learning)
+- [Related Awesome Lists :astonished:](#related-awesome-lists)
+- [Toolboxes :toolbox:](#toolboxes)
+- [Seminar :alarm_clock:](#seminar) 
+- [Workshops :fire:](#workshops)
+- [Tutorials :woman_teacher:](#tutorials)
+- [Talks :microphone:](#talks)
+- [Blogs :writing_hand:](#blogs)
+- [Other Resources :sparkles:](#other-resources)
 
 # Paper List
 
