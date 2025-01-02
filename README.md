@@ -13,7 +13,12 @@ This is curated repository of resources on bias and machine unlearning in Large 
 ![avatar](assets/images/DALL·E-2025-01-01-19.02.jpg "Created by DALLE")
 
 # Table of Contents
-- [Paper List :page_with_curl:](#awesome-trustworthy--deep-learning)
+- [Paper List :page_with_curl:](#llm-bias-unlearning)
+    - [Fairness and Bias in AI](#paper-Fairness_Bias)
+        - [2024](#paper-Fairness_Bias-2024)
+        - [2023](#paper-Fairness_Bias-2023)
+        - [2022](#paper-Fairness_Bias-2022)
+    - Machine Unlearning
 - [Related Awesome Lists :astonished:](#related-awesome-lists)
 - [Toolboxes :toolbox:](#toolboxes)
 - [Seminar :alarm_clock:](#seminar) 
@@ -24,6 +29,28 @@ This is curated repository of resources on bias and machine unlearning in Large 
 - [Other Resources :sparkles:](#other-resources)
 
 # Paper List
+
+<a id="paper-Fairness_Bias"></a>
+## Fairness and Bias in AI
+
+<a id="paper-Fairness_Bias-2024"></a>
+### 2024
+...
+
+<a id="paper-Fairness_Bias-2023"></a>
+### 2023
+...
+<a id="paper-Fairness_Bias-2022"></a>
+### 2022
+..
+
+## Machine Unlearning
+
+### 2024
+
+### 2023
+
+### 2022
 
 # Related Awesome Lists
 
