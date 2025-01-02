@@ -25,7 +25,8 @@ This is curated repository of resources on bias and machine unlearning in Large 
     - [Other Related](#paper-others-related)
         - [2024](#paper-others-related-2024)
         - [2023](#paper-others-related-2023)
-        - [2022](#paper-others-related-2022)      
+        - [2022](#paper-others-related-2022)
+    - [Venues](#venues)      
 - [Related Awesome Lists :astonished:](#related-awesome-lists)
 - [Toolboxes :toolbox:](#toolboxes)
 - [Seminar :alarm_clock:](#seminar) 
@@ -56,8 +57,9 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 <a id="paper-machine_unlearning-2024"></a>
 ### 2024
-| Date | Author(s) | Title | Venue | Code |
-|:--------- | ----- | ----- | ----- | ----- |
+| Date | Author(s) | Title | Keywords | Venue |  Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- |
+|2024.05 | A. Oesterling, J. Ma, F. P. Calmon, and H. Lakkaraju | Fair machine unlearning: Data removal while mitigating disparities | ----- | PMLR |  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AI4LIFE-GROUP/fair-unlearning) ![ ](https://img.shields.io/github/last-commit/AI4LIFE-GROUP/fair-unlearning?style=for-the-badge)  |
 
 <a id="paper-machine_unlearning-2023"></a>
 ### 2023
@@ -81,6 +83,14 @@ This is curated repository of resources on bias and machine unlearning in Large 
 <a id="paper-others-related-2022"></a>
 ### 2022
 ...
+
+## Venues
+
+In the context of a research paper, "venue" refers to the specific conference, journal, symposium, or workshop where the paper was published or presented. 
+
+| Acronym | Venue | 
+|:--------- | ----- | 
+| PMLR | Proceedings of Machine Learning Research |
 
 # Related Awesome Lists
 
