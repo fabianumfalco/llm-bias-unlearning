@@ -29,6 +29,7 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 | **Title** | **Topics** |  | 
 | --------------- | ---- | ---- | 
+| [Awesome Large Language Model Unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) | Trustworthy | ![ ](https://img.shields.io/github/last-commit/chrisliu298/awesome-llm-unlearning) ![ ](https://img.shields.io/github/stars/chrisliu298/awesome-llm-unlearning) ![ ](https://img.shields.io/github/watchers/chrisliu298/awesome-llm-unlearning)|
 | [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) | Trustworthy | ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/watchers/MinghuiChen43/awesome-trustworthy-deep-learning)|
 
 # Toolboxes
