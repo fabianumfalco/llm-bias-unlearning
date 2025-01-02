@@ -56,7 +56,8 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 <a id="paper-machine_unlearning-2024"></a>
 ### 2024
-...
+| Date | Author(s) | Title | Venue | Code |
+|:--------- | ----- | ----- | ----- | ----- |
 
 <a id="paper-machine_unlearning-2023"></a>
 ### 2023
