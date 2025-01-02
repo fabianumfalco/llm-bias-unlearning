@@ -29,8 +29,10 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 | **Title** | **Topics** |  | 
 | --------------- | ---- | ---- | 
+| [Awesome-GenAI-Unlearning](https://github.com/franciscoliu/Awesome-GenAI-Unlearning) | [Generative-AI](https://github.com/topics/Generative-AI) [Machine-Unlearning](https://github.com/topics/Machine-Unlearning) | ![ ](https://img.shields.io/github/last-commit/franciscoliu/Awesome-GenAI-Unlearning) ![ ](https://img.shields.io/github/stars/franciscoliu/Awesome-GenAI-Unlearning) |
 | [Awesome Large Language Model Unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) | [Machine-Unlearning](https://github.com/topics/machine-unlearning) [LLM-Unlearning](https://github.com/topics/llm-unlearning) | ![ ](https://img.shields.io/github/last-commit/chrisliu298/awesome-llm-unlearning) ![ ](https://img.shields.io/github/stars/chrisliu298/awesome-llm-unlearning) |
 | [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) | [Trustworthy-AI](https://github.com/topics/trustworthy-ai) | ![ ](https://img.shields.io/github/last-commit/MinghuiChen43/awesome-trustworthy-deep-learning) ![ ](https://img.shields.io/github/stars/MinghuiChen43/awesome-trustworthy-deep-learning) |
+| [LLM-Unlearning-Paper-List](https://github.com/KID-22/LLM-Unlearning-Paper-List) | [Machine-Unlearning](https://github.com/topics/machine-unlearning) [LLM-Unlearning](https://github.com/topics/llm-unlearning) | ![ ](https://img.shields.io/github/last-commit/KID-22/LLM-Unlearning-Paper-List) ![ ](https://img.shields.io/github/stars/KID-22/LLM-Unlearning-Paper-List) |
 
 # Toolboxes
 
