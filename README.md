@@ -59,7 +59,7 @@ This is curated repository of resources on bias and machine unlearning in Large 
 ### 2024
 | Date | Author(s) | Title | Keywords | Venue |  Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- |
-|2024.05 | A. Oesterling, J. Ma, F. P. Calmon, and H. Lakkaraju | Fair machine unlearning: Data removal while mitigating disparities | Data Privacy; Fair Machine Learning; Fairness; Machine Unlearning; Right to Be Forgotten | PMLR |  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AI4LIFE-GROUP/fair-unlearning) ![ ](https://img.shields.io/github/last-commit/AI4LIFE-GROUP/fair-unlearning?style=for-the-badge)  |
+|2024.05 | A. Oesterling, J. Ma, F. P. Calmon, and H. Lakkaraju | Fair machine unlearning: Data removal while mitigating disparities [![Arxiv](https://img.shields.io/badge/arXiv-2307.14754-B21A1B?style=for-the-badge)](https://arxiv.org/abs/2307.14754) | Data Privacy; Fair Machine Learning; Fairness; Machine Unlearning; Right to Be Forgotten  | PMLR |  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AI4LIFE-GROUP/fair-unlearning) ![ ](https://img.shields.io/github/last-commit/AI4LIFE-GROUP/fair-unlearning?style=for-the-badge)  |
 
 <a id="paper-machine_unlearning-2023"></a>
 ### 2023
