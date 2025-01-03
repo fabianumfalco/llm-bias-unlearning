@@ -16,17 +16,23 @@ This is curated repository of resources on bias and machine unlearning in Large 
 # Table of Contents
 - [Paper List :page_with_curl:](#llm-bias-unlearning)
     - [Fairness and Bias in AI](#paper-Fairness_Bias)
+        - [2025](#paper-Fairness_Bias-2025)
         - [2024](#paper-Fairness_Bias-2024)
         - [2023](#paper-Fairness_Bias-2023)
         - [2022](#paper-Fairness_Bias-2022)
+        - [\( \leq \) 2021](#paper-Fairness_Bias-leq-2021)
     - [Machine Unlearning](#paper-machine_unlearning)
+        - [2025](#paper-machine_unlearning-2025)
         - [2024](#paper-machine_unlearning-2024)
         - [2023](#paper-machine_unlearning-2023)
-        - [2022](#paper-machine_unlearning-2022)    
+        - [2022](#paper-machine_unlearning-2022) 
+        - [\( \leq \) 2021](#paper-Fairness_Bias-leq-2021)   
     - [Other Related](#paper-others-related)
+        - [2025](#paper-others-related-2025)
         - [2024](#paper-others-related-2024)
         - [2023](#paper-others-related-2023)
         - [2022](#paper-others-related-2022)
+        - [\( \leq \) 2021](#paper-Fairness_Bias-leq-2021)
     - [Venues](#venues)      
 - [Related Awesome Lists :astonished:](#related-awesome-lists)
 - [Toolboxes :toolbox:](#toolboxes)
@@ -41,6 +47,12 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 <a id="paper-Fairness_Bias"></a>
 ## Fairness and Bias in AI
+
+<a id="paper-Fairness_Bias-2025"></a>
+### 2025
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
 
 <a id="paper-Fairness_Bias-2024"></a>
 ### 2024
@@ -62,8 +74,20 @@ This is curated repository of resources on bias and machine unlearning in Large 
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
 |2022.11| N. Mehrabi, F. Morstatter, N. Saxena, K. Lerman, and A. Galstyan | A survey on bias and fairness in machine learning [![ACM](https://img.shields.io/badge/ACM-0085CA.svg?style=for-the-badge&logo=ACM&logoColor=white)](https://doi.org/10.1145/3457607) |  Fairness and Bias in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Representation Learning  | ACM Comput. Surv. |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/csur/MehrabiMSLG21) |  |
 
+<a id="paper-Fairness_Bias-leq-2021"></a>
+### \( \leq \) 2021
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
+
 <a id="paper-machine_unlearning"></a>
 ## Machine Unlearning
+
+<a id="paper-machine_unlearning-2025"></a>
+### 2025
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
 
 <a id="paper-machine_unlearning-2024"></a>
 ### 2024
@@ -79,8 +103,6 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 
 
-
-
 <a id="paper-machine_unlearning-2023"></a>
 ### 2023
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
@@ -89,14 +111,30 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 <a id="paper-machine_unlearning-2022"></a>
 ### 2022
-...
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
+
+<a id="paper-machine_unlearning-leq-2021"></a>
+### \( \leq \) 2021
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
 
 <a id="paper-others-related"></a>
 ## Other Related
 
+<a id="paper-others-related-2025"></a>
+### 2025
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
+
 <a id="paper-others-related-2024"></a>
 ### 2024
-...
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
 
 <a id="paper-others-related-2023"></a>
 ### 2023
@@ -106,7 +144,15 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 <a id="paper-others-related-2022"></a>
 ### 2022
-...
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
+
+<a id="paper-others-related-leq-2021"></a>
+### \( \leq \) 2021
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|  |   |   |   |   |    |   |
 
 ## Venues
 
