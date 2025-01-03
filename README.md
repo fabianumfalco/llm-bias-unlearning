@@ -57,9 +57,9 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 <a id="paper-machine_unlearning-2024"></a>
 ### 2024
-| Date | Author(s) | Title | Keywords | Venue |  Code | Bib Source |
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
-|2024.05 | A. Oesterling, J. Ma, F. P. Calmon, and H. Lakkaraju | Fair machine unlearning: Data removal while mitigating disparities [![Arxiv](https://img.shields.io/badge/arXiv-2307.14754-B21A1B?style=flat)](https://arxiv.org/abs/2307.14754) [![Open](https://img.shields.io/badge/Open%20Access-F68212.svg?style=flat&logo=Open-Access&logoColor=white)](https://proceedings.mlr.press/v238/oesterling24a/oesterling24a.pdf) | Data Privacy; Fair Machine Learning; Fairness; Machine Unlearning; Right to Be Forgotten  | PMLR |  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AI4LIFE-GROUP/fair-unlearning) ![ ](https://img.shields.io/github/last-commit/AI4LIFE-GROUP/fair-unlearning?style=for-the-badge)  | [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/conf/aistats/OesterlingMCL24) |
+|2024.05 | A. Oesterling, J. Ma, F. P. Calmon, and H. Lakkaraju | Fair machine unlearning: Data removal while mitigating disparities [![Arxiv](https://img.shields.io/badge/arXiv-2307.14754-B21A1B?style=flat)](https://arxiv.org/abs/2307.14754) [![Open](https://img.shields.io/badge/Open%20Access-F68212.svg?style=flat&logo=Open-Access&logoColor=white)](https://proceedings.mlr.press/v238/oesterling24a/oesterling24a.pdf) | Data Privacy; Fair Machine Learning; Fairness; Machine Unlearning; Right to Be Forgotten  | PMLR |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/conf/aistats/OesterlingMCL24) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AI4LIFE-GROUP/fair-unlearning) ![ ](https://img.shields.io/github/last-commit/AI4LIFE-GROUP/fair-unlearning?style=for-the-badge)   |
 
 <a id="paper-machine_unlearning-2023"></a>
 ### 2023
