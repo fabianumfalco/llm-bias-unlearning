@@ -46,13 +46,14 @@ This is curated repository of resources on bias and machine unlearning in Large 
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
 |2024.08 | D. Bouchard | An actionable framework for assessing bias and fairness in large language model use cases [![Arxiv](https://img.shields.io/badge/arXiv-2407.10853-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2407.10853) | Bias, Evaluation Metrics, Fairness, Framework, Large Language Models, LLMs    | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2407-10853) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cvs-health/langfair) ![ ](https://img.shields.io/github/last-commit/cvs-health/langfair?style=for-the-badge)   |
+|2024.04 | S. Caton and C. Haas | Fairness in machine learning: A survey [![Open](https://img.shields.io/badge/Open%20Access-F68212.svg?style=flat&logo=Open-Access&logoColor=white)](https://doi.org/10.1145/3616865) |  Fairness, accountability, transparency, machine learning  | ACM Comput. Surv. |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/csur/CatonH24) |  |
 
 <a id="paper-Fairness_Bias-2023"></a>
 ### 2023
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
-|2024.08 | A. F. Oketunji, M. Anas, and D. Saina | Large language model (LLM) bias index - LLMBI [![Arxiv](https://img.shields.io/badge/arXiv-2312.14769-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2312.14769) | Large Language Model, LLM, Model Calibration, Bias Quantification, Bias Mitigation, Algorithmic Fairness, Algorithmic Governance   | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2312-14769) |  |
-...
+|2023.12 | A. F. Oketunji, M. Anas, and D. Saina | Large language model (LLM) bias index - LLMBI [![Arxiv](https://img.shields.io/badge/arXiv-2312.14769-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2312.14769) | Large Language Model, LLM, Model Calibration, Bias Quantification, Bias Mitigation, Algorithmic Fairness, Algorithmic Governance   | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2312-14769) |  |
+
 <a id="paper-Fairness_Bias-2022"></a>
 ### 2022
 ..
@@ -95,7 +96,9 @@ In the context of a research paper, "venue" refers to the specific conference, j
 
 | Acronym | Venue | 
 |:--------- | ----- | 
+| ACM Comput. Surv. | ACM Computing Surveys |
 | PMLR | Proceedings of Machine Learning Research |
+
 
 # Related Awesome Lists
 
