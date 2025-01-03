@@ -5,6 +5,7 @@
 ![Github watchers](https://img.shields.io/github/watchers/fabianumfalco/llm-bias-unlearning?color=yellow&style=plastic)
 ![Github forks](https://img.shields.io/github/forks/fabianumfalco/llm-bias-unlearning?color=red&style=plastic)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffabianumfalco%2Fllm-bias-unlearning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Downloads](https://img.shields.io/github/downloads/fabianumfalco/llm-bias-unlearning/total?color=ccf&label=downloads&logo=github&logoColor=lightgrey)
 
 
 This is curated repository of resources on bias and machine unlearning in Large Language Models. Its primary purpose is to provide a comprehensive list of relevant resources related to these topics that can support my research and dissertation, under the advisorship of [PhD Edna Dias Canedo](https://ednacanedo.github.io/), in the [Professional Graduate Program in Electrical Engineering (PPEE)](https://ppee.unb.br/) at the [University of Brasília (UnB)](https://international.unb.br/), [Department of Electrical Engineering (ENE)](http://www.ene.unb.br/).
@@ -95,7 +96,9 @@ This is curated repository of resources on bias and machine unlearning in Large 
 
 <a id="paper-others-related-2023"></a>
 ### 2023
-...
+| Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
+|:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
+|2023.12 | Y. Yao, J. Duan, K. Xu, Y. Cai, E. Sun, and Y. Zhang | A survey on large language model (LLM) security and privacy: The good, the bad, and the ugly [![Arxiv](https://img.shields.io/badge/arXiv-2312.02003-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2312.02003)  | Large Language Model (LLM), LLM Security, LLM Privacy, ChatGPT, LLM Attacks, LLM Vulnerabilities  | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2312-02003) |  |
 
 <a id="paper-others-related-2022"></a>
 ### 2022
