@@ -75,7 +75,7 @@ This is curated repository of resources on bias and machine unlearning in Large 
 |2022.11| N. Mehrabi, F. Morstatter, N. Saxena, K. Lerman, and A. Galstyan | A survey on bias and fairness in machine learning [![ACM](https://img.shields.io/badge/ACM-0085CA.svg?style=for-the-badge&logo=ACM&logoColor=white)](https://doi.org/10.1145/3457607) |  Fairness and Bias in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Representation Learning  | ACM Comput. Surv. |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/csur/MehrabiMSLG21) |  |
 
 <a id="paper-Fairness_Bias-leq-2021"></a>
-### \( \leq 2021 \)
+### ≤ 2021
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
 |  |   |   |   |   |    |   |
@@ -102,7 +102,6 @@ This is curated repository of resources on bias and machine unlearning in Large 
 | 2024.02 | L. Wang, X. Zeng, J. Guo, K.-F. Wong, and G. Gottlob | Selective forgetting: Advancing machine unlearning techniques and evaluation in language models [![Arxiv](https://img.shields.io/badge/arXiv-2402.05813-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2402.05813) | Machine Unlearning, Language Model, Selective Unlearning  | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2402-05813) |   |
 
 
-
 <a id="paper-machine_unlearning-2023"></a>
 ### 2023
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
@@ -116,7 +115,7 @@ This is curated repository of resources on bias and machine unlearning in Large 
 |  |   |   |   |   |    |   |
 
 <a id="paper-machine_unlearning-leq-2021"></a>
-### \( \leq \) 2021
+### ≤ 2021
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
 |  |   |   |   |   |    |   |
@@ -149,7 +148,7 @@ This is curated repository of resources on bias and machine unlearning in Large 
 |  |   |   |   |   |    |   |
 
 <a id="paper-others-related-leq-2021"></a>
-### \( \leq 2021 \)
+### ≤ 2021
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
 |  |   |   |   |   |    |   |
