@@ -45,13 +45,13 @@ This is curated repository of resources on bias and machine unlearning in Large 
 ### 2024
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
-|2024.08 | D. Bouchard | An actionable framework for assessing bias and fairness in large language model use cases [![Arxiv](https://img.shields.io/badge/arXiv-2407.10853-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2407.10853) | Bias; Evaluation Metrics; Fairness; Framework; Large Language Models (LLMs)    | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2407-10853) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cvs-health/langfair) ![ ](https://img.shields.io/github/last-commit/cvs-health/langfair?style=for-the-badge)   |
+|2024.08 | D. Bouchard | An actionable framework for assessing bias and fairness in large language model use cases [![Arxiv](https://img.shields.io/badge/arXiv-2407.10853-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2407.10853) | Bias, Evaluation Metrics, Fairness, Framework, Large Language Models, LLMs    | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2407-10853) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cvs-health/langfair) ![ ](https://img.shields.io/github/last-commit/cvs-health/langfair?style=for-the-badge)   |
 
 <a id="paper-Fairness_Bias-2023"></a>
 ### 2023
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
-|2024.08 | A. F. Oketunji, M. Anas, and D. Saina | Large language model (LLM) bias index - LLMBI [![Arxiv](https://img.shields.io/badge/arXiv-2312.14769-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2312.14769) | Large Language Model, LLM, Model Calibration, Bias Quantification, Bias Mitigation, Natural Language Processing, NLP, Sentiment Analysis, Algorithmic Fairness, Algorithmic Governance, LLM Bias Index (LLMBI), AI Ethics, EU AI Act, United Kingdom National AI Strategy, Global AI Governance    | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2312-14769) |  |
+|2024.08 | A. F. Oketunji, M. Anas, and D. Saina | Large language model (LLM) bias index - LLMBI [![Arxiv](https://img.shields.io/badge/arXiv-2312.14769-B21A1B?style=flat)](https://doi.org/10.48550/arXiv.2312.14769) | Large Language Model, LLM, Model Calibration, Bias Quantification, Bias Mitigation, Algorithmic Fairness, Algorithmic Governance   | arXiv |  [![GitHub](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2312-14769) |  |
 ...
 <a id="paper-Fairness_Bias-2022"></a>
 ### 2022
