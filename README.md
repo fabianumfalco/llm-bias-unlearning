@@ -136,7 +136,7 @@ This is curated repository of resources on bias and machine unlearning in Large 
 ### 2024
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
-|  |   |   |   |   |    |   |
+|2024.01 | B. C. Das, M. H. Amini, and Y. Wu | Security and privacy challenges of large language models: A survey [![Arxiv](https://img.shields.io/badge/arXiv-2402.00888-B21A1B?style=for-the-badge)](https://doi.org/10.48550/arXiv.2402.00888) | Large Language Models, Security and Privacy Challenges, Defense Mechanisms.   | arXiv |  [![dblp](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.org/rec/journals/corr/abs-2402-00888) |  |
 
 <a id="paper-others-related-2023"></a>
 ### 2023
