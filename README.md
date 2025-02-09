@@ -122,7 +122,7 @@ This is curated repository of resources on bias and machine unlearning in Large 
 ### ≤ 2021
 | Date | Author(s) | Title | Keywords | Venue |  Bib Source | Code |
 |:--------- | ----- | ----- | ----- | ----- |  ----- | ----- |
-|  |   |   |   |   |    |   |
+|2020.06 | Y. Wu, E. Dobriban, and S. B. Davidson | DeltaGrad: Rapid retraining of machine learning models [![Arxiv](https://img.shields.io/badge/arXiv-2006.14755-B21A1B?style=for-the-badge)](https://doi.org/10.48550/arXiv.2006.14755)  |  | PMLR |  [![dblp](https://img.shields.io/badge/dblp-004F9F.svg?style=for-the-badge&logo=dblp&logoColor=white)](https://dblp.uni-trier.de/rec/conf/icml/WuDD20.html) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](hhttps://github.com/wuyinjun-1993/DeltaGrad) ![ ](https://img.shields.io/github/last-commit/wuyinjun-1993/DeltaGrad?style=for-the-badge)  |
 
 <a id="paper-others-related"></a>
 ## Other Related
